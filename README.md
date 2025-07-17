@@ -1,2 +1,2 @@
 # stm32f103
-自学
+This is a self-study code repository.
